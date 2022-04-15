@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Ch5Recursion
 
 main :: IO ()
-main = someFunc
+main = print (maximum' [1, 2, 3])

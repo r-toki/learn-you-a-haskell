@@ -25,6 +25,7 @@ source-repository head
 
 library
   exposed-modules:
+      Ch5Recursion
       Lib
   other-modules:
       Paths_learn_you_a_haskell
